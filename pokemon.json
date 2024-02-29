@@ -1,0 +1,1210 @@
+[
+  {
+    "nome": "bulbasaur",
+    "tipo": "grass",
+    "peso": 69,
+    "altura": 7,
+    "numeroDex": 1,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "nome": "ivysaur",
+    "tipo": "grass",
+    "peso": 130,
+    "altura": 10,
+    "numeroDex": 2,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "nome": "venusaur",
+    "tipo": "grass",
+    "peso": 1000,
+    "altura": 20,
+    "numeroDex": 3,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "nome": "charmander",
+    "tipo": "fire",
+    "peso": 85,
+    "altura": 6,
+    "numeroDex": 4,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "nome": "charmeleon",
+    "tipo": "fire",
+    "peso": 190,
+    "altura": 11,
+    "numeroDex": 5,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "nome": "charizard",
+    "tipo": "fire",
+    "peso": 905,
+    "altura": 17,
+    "numeroDex": 6,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "nome": "squirtle",
+    "tipo": "water",
+    "peso": 90,
+    "altura": 5,
+    "numeroDex": 7,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "nome": "wartortle",
+    "tipo": "water",
+    "peso": 225,
+    "altura": 10,
+    "numeroDex": 8,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "nome": "blastoise",
+    "tipo": "water",
+    "peso": 855,
+    "altura": 16,
+    "numeroDex": 9,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "nome": "caterpie",
+    "tipo": "bug",
+    "peso": 29,
+    "altura": 3,
+    "numeroDex": 10,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "nome": "metapod",
+    "tipo": "bug",
+    "peso": 99,
+    "altura": 7,
+    "numeroDex": 11,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "nome": "butterfree",
+    "tipo": "bug",
+    "peso": 320,
+    "altura": 11,
+    "numeroDex": 12,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  },
+  {
+    "nome": "weedle",
+    "tipo": "bug",
+    "peso": 32,
+    "altura": 3,
+    "numeroDex": 13,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+  },
+  {
+    "nome": "kakuna",
+    "tipo": "bug",
+    "peso": 100,
+    "altura": 6,
+    "numeroDex": 14,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+  },
+  {
+    "nome": "beedrill",
+    "tipo": "bug",
+    "peso": 295,
+    "altura": 10,
+    "numeroDex": 15,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+  },
+  {
+    "nome": "pidgey",
+    "tipo": "normal",
+    "peso": 18,
+    "altura": 3,
+    "numeroDex": 16,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+  },
+  {
+    "nome": "pidgeotto",
+    "tipo": "normal",
+    "peso": 300,
+    "altura": 11,
+    "numeroDex": 17,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+  },
+  {
+    "nome": "pidgeot",
+    "tipo": "normal",
+    "peso": 395,
+    "altura": 15,
+    "numeroDex": 18,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+  },
+  {
+    "nome": "rattata",
+    "tipo": "normal",
+    "peso": 35,
+    "altura": 3,
+    "numeroDex": 19,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+  },
+  {
+    "nome": "raticate",
+    "tipo": "normal",
+    "peso": 185,
+    "altura": 7,
+    "numeroDex": 20,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+  },
+  {
+    "nome": "spearow",
+    "tipo": "normal",
+    "peso": 20,
+    "altura": 3,
+    "numeroDex": 21,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+  },
+  {
+    "nome": "fearow",
+    "tipo": "normal",
+    "peso": 380,
+    "altura": 12,
+    "numeroDex": 22,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+  },
+  {
+    "nome": "ekans",
+    "tipo": "poison",
+    "peso": 69,
+    "altura": 20,
+    "numeroDex": 23,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+  },
+  {
+    "nome": "arbok",
+    "tipo": "poison",
+    "peso": 650,
+    "altura": 35,
+    "numeroDex": 24,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+  },
+  {
+    "nome": "pikachu",
+    "tipo": "electric",
+    "peso": 60,
+    "altura": 4,
+    "numeroDex": 25,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  },
+  {
+    "nome": "raichu",
+    "tipo": "electric",
+    "peso": 300,
+    "altura": 8,
+    "numeroDex": 26,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+  },
+  {
+    "nome": "sandshrew",
+    "tipo": "ground",
+    "peso": 120,
+    "altura": 6,
+    "numeroDex": 27,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+  },
+  {
+    "nome": "sandslash",
+    "tipo": "ground",
+    "peso": 295,
+    "altura": 10,
+    "numeroDex": 28,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+  },
+  {
+    "nome": "nidoran-f",
+    "tipo": "poison",
+    "peso": 70,
+    "altura": 4,
+    "numeroDex": 29,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+  },
+  {
+    "nome": "nidorina",
+    "tipo": "poison",
+    "peso": 200,
+    "altura": 8,
+    "numeroDex": 30,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+  },
+  {
+    "nome": "nidoqueen",
+    "tipo": "poison",
+    "peso": 600,
+    "altura": 13,
+    "numeroDex": 31,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+  },
+  {
+    "nome": "nidoran-m",
+    "tipo": "poison",
+    "peso": 90,
+    "altura": 5,
+    "numeroDex": 32,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+  },
+  {
+    "nome": "nidorino",
+    "tipo": "poison",
+    "peso": 195,
+    "altura": 9,
+    "numeroDex": 33,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+  },
+  {
+    "nome": "nidoking",
+    "tipo": "poison",
+    "peso": 620,
+    "altura": 14,
+    "numeroDex": 34,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+  },
+  {
+    "nome": "clefairy",
+    "tipo": "fairy",
+    "peso": 75,
+    "altura": 6,
+    "numeroDex": 35,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+  },
+  {
+    "nome": "clefable",
+    "tipo": "fairy",
+    "peso": 400,
+    "altura": 13,
+    "numeroDex": 36,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+  },
+  {
+    "nome": "vulpix",
+    "tipo": "fire",
+    "peso": 99,
+    "altura": 6,
+    "numeroDex": 37,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+  },
+  {
+    "nome": "ninetales",
+    "tipo": "fire",
+    "peso": 199,
+    "altura": 11,
+    "numeroDex": 38,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+  },
+  {
+    "nome": "jigglypuff",
+    "tipo": "normal",
+    "peso": 55,
+    "altura": 5,
+    "numeroDex": 39,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+  },
+  {
+    "nome": "wigglytuff",
+    "tipo": "normal",
+    "peso": 120,
+    "altura": 10,
+    "numeroDex": 40,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+  },
+  {
+    "nome": "zubat",
+    "tipo": "poison",
+    "peso": 75,
+    "altura": 8,
+    "numeroDex": 41,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+  },
+  {
+    "nome": "golbat",
+    "tipo": "poison",
+    "peso": 550,
+    "altura": 16,
+    "numeroDex": 42,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+  },
+  {
+    "nome": "oddish",
+    "tipo": "grass",
+    "peso": 54,
+    "altura": 5,
+    "numeroDex": 43,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+  },
+  {
+    "nome": "gloom",
+    "tipo": "grass",
+    "peso": 86,
+    "altura": 8,
+    "numeroDex": 44,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+  },
+  {
+    "nome": "vileplume",
+    "tipo": "grass",
+    "peso": 186,
+    "altura": 12,
+    "numeroDex": 45,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+  },
+  {
+    "nome": "paras",
+    "tipo": "bug",
+    "peso": 54,
+    "altura": 3,
+    "numeroDex": 46,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+  },
+  {
+    "nome": "parasect",
+    "tipo": "bug",
+    "peso": 295,
+    "altura": 10,
+    "numeroDex": 47,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+  },
+  {
+    "nome": "venonat",
+    "tipo": "bug",
+    "peso": 300,
+    "altura": 10,
+    "numeroDex": 48,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+  },
+  {
+    "nome": "venomoth",
+    "tipo": "bug",
+    "peso": 125,
+    "altura": 15,
+    "numeroDex": 49,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+  },
+  {
+    "nome": "diglett",
+    "tipo": "ground",
+    "peso": 8,
+    "altura": 2,
+    "numeroDex": 50,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+  },
+  {
+    "nome": "dugtrio",
+    "tipo": "ground",
+    "peso": 333,
+    "altura": 7,
+    "numeroDex": 51,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+  },
+  {
+    "nome": "meowth",
+    "tipo": "normal",
+    "peso": 42,
+    "altura": 4,
+    "numeroDex": 52,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+  },
+  {
+    "nome": "persian",
+    "tipo": "normal",
+    "peso": 320,
+    "altura": 10,
+    "numeroDex": 53,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+  },
+  {
+    "nome": "psyduck",
+    "tipo": "water",
+    "peso": 196,
+    "altura": 8,
+    "numeroDex": 54,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+  },
+  {
+    "nome": "golduck",
+    "tipo": "water",
+    "peso": 766,
+    "altura": 17,
+    "numeroDex": 55,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+  },
+  {
+    "nome": "mankey",
+    "tipo": "fighting",
+    "peso": 280,
+    "altura": 5,
+    "numeroDex": 56,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+  },
+  {
+    "nome": "primeape",
+    "tipo": "fighting",
+    "peso": 320,
+    "altura": 10,
+    "numeroDex": 57,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+  },
+  {
+    "nome": "growlithe",
+    "tipo": "fire",
+    "peso": 190,
+    "altura": 7,
+    "numeroDex": 58,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+  },
+  {
+    "nome": "arcanine",
+    "tipo": "fire",
+    "peso": 1550,
+    "altura": 19,
+    "numeroDex": 59,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+  },
+  {
+    "nome": "poliwag",
+    "tipo": "water",
+    "peso": 124,
+    "altura": 6,
+    "numeroDex": 60,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+  },
+  {
+    "nome": "poliwhirl",
+    "tipo": "water",
+    "peso": 200,
+    "altura": 10,
+    "numeroDex": 61,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+  },
+  {
+    "nome": "poliwrath",
+    "tipo": "water",
+    "peso": 540,
+    "altura": 13,
+    "numeroDex": 62,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+  },
+  {
+    "nome": "abra",
+    "tipo": "psychic",
+    "peso": 195,
+    "altura": 9,
+    "numeroDex": 63,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+  },
+  {
+    "nome": "kadabra",
+    "tipo": "psychic",
+    "peso": 565,
+    "altura": 13,
+    "numeroDex": 64,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+  },
+  {
+    "nome": "alakazam",
+    "tipo": "psychic",
+    "peso": 480,
+    "altura": 15,
+    "numeroDex": 65,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+  },
+  {
+    "nome": "machop",
+    "tipo": "fighting",
+    "peso": 195,
+    "altura": 8,
+    "numeroDex": 66,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+  },
+  {
+    "nome": "machoke",
+    "tipo": "fighting",
+    "peso": 705,
+    "altura": 15,
+    "numeroDex": 67,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+  },
+  {
+    "nome": "machamp",
+    "tipo": "fighting",
+    "peso": 1300,
+    "altura": 16,
+    "numeroDex": 68,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+  },
+  {
+    "nome": "bellsprout",
+    "tipo": "grass",
+    "peso": 40,
+    "altura": 7,
+    "numeroDex": 69,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+  },
+  {
+    "nome": "weepinbell",
+    "tipo": "grass",
+    "peso": 64,
+    "altura": 10,
+    "numeroDex": 70,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+  },
+  {
+    "nome": "victreebel",
+    "tipo": "grass",
+    "peso": 155,
+    "altura": 17,
+    "numeroDex": 71,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+  },
+  {
+    "nome": "tentacool",
+    "tipo": "water",
+    "peso": 455,
+    "altura": 9,
+    "numeroDex": 72,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+  },
+  {
+    "nome": "tentacruel",
+    "tipo": "water",
+    "peso": 550,
+    "altura": 16,
+    "numeroDex": 73,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+  },
+  {
+    "nome": "geodude",
+    "tipo": "rock",
+    "peso": 200,
+    "altura": 4,
+    "numeroDex": 74,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+  },
+  {
+    "nome": "graveler",
+    "tipo": "rock",
+    "peso": 1050,
+    "altura": 10,
+    "numeroDex": 75,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+  },
+  {
+    "nome": "golem",
+    "tipo": "rock",
+    "peso": 3000,
+    "altura": 14,
+    "numeroDex": 76,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+  },
+  {
+    "nome": "ponyta",
+    "tipo": "fire",
+    "peso": 300,
+    "altura": 10,
+    "numeroDex": 77,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+  },
+  {
+    "nome": "rapidash",
+    "tipo": "fire",
+    "peso": 950,
+    "altura": 17,
+    "numeroDex": 78,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+  },
+  {
+    "nome": "slowpoke",
+    "tipo": "water",
+    "peso": 360,
+    "altura": 12,
+    "numeroDex": 79,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
+  },
+  {
+    "nome": "slowbro",
+    "tipo": "water",
+    "peso": 785,
+    "altura": 16,
+    "numeroDex": 80,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
+  },
+  {
+    "nome": "magnemite",
+    "tipo": "electric",
+    "peso": 60,
+    "altura": 3,
+    "numeroDex": 81,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
+  },
+  {
+    "nome": "magneton",
+    "tipo": "electric",
+    "peso": 600,
+    "altura": 10,
+    "numeroDex": 82,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+  },
+  {
+    "nome": "farfetchd",
+    "tipo": "normal",
+    "peso": 150,
+    "altura": 8,
+    "numeroDex": 83,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+  },
+  {
+    "nome": "doduo",
+    "tipo": "normal",
+    "peso": 392,
+    "altura": 14,
+    "numeroDex": 84,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+  },
+  {
+    "nome": "dodrio",
+    "tipo": "normal",
+    "peso": 852,
+    "altura": 18,
+    "numeroDex": 85,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+  },
+  {
+    "nome": "seel",
+    "tipo": "water",
+    "peso": 900,
+    "altura": 11,
+    "numeroDex": 86,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+  },
+  {
+    "nome": "dewgong",
+    "tipo": "water",
+    "peso": 1200,
+    "altura": 17,
+    "numeroDex": 87,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+  },
+  {
+    "nome": "grimer",
+    "tipo": "poison",
+    "peso": 300,
+    "altura": 9,
+    "numeroDex": 88,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
+  },
+  {
+    "nome": "muk",
+    "tipo": "poison",
+    "peso": 300,
+    "altura": 12,
+    "numeroDex": 89,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+  },
+  {
+    "nome": "shellder",
+    "tipo": "water",
+    "peso": 40,
+    "altura": 3,
+    "numeroDex": 90,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
+  },
+  {
+    "nome": "cloyster",
+    "tipo": "water",
+    "peso": 1325,
+    "altura": 15,
+    "numeroDex": 91,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
+  },
+  {
+    "nome": "gastly",
+    "tipo": "ghost",
+    "peso": 1,
+    "altura": 13,
+    "numeroDex": 92,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+  },
+  {
+    "nome": "haunter",
+    "tipo": "ghost",
+    "peso": 1,
+    "altura": 16,
+    "numeroDex": 93,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
+  },
+  {
+    "nome": "gengar",
+    "tipo": "ghost",
+    "peso": 405,
+    "altura": 15,
+    "numeroDex": 94,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+  },
+  {
+    "nome": "onix",
+    "tipo": "rock",
+    "peso": 2100,
+    "altura": 88,
+    "numeroDex": 95,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+  },
+  {
+    "nome": "drowzee",
+    "tipo": "psychic",
+    "peso": 324,
+    "altura": 10,
+    "numeroDex": 96,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
+  },
+  {
+    "nome": "hypno",
+    "tipo": "psychic",
+    "peso": 756,
+    "altura": 16,
+    "numeroDex": 97,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
+  },
+  {
+    "nome": "krabby",
+    "tipo": "water",
+    "peso": 65,
+    "altura": 4,
+    "numeroDex": 98,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
+  },
+  {
+    "nome": "kingler",
+    "tipo": "water",
+    "peso": 600,
+    "altura": 13,
+    "numeroDex": 99,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
+  },
+  {
+    "nome": "voltorb",
+    "tipo": "electric",
+    "peso": 104,
+    "altura": 5,
+    "numeroDex": 100,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+  },
+  {
+    "nome": "electrode",
+    "tipo": "electric",
+    "peso": 666,
+    "altura": 12,
+    "numeroDex": 101,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
+  },
+  {
+    "nome": "exeggcute",
+    "tipo": "grass",
+    "peso": 25,
+    "altura": 4,
+    "numeroDex": 102,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png"
+  },
+  {
+    "nome": "exeggutor",
+    "tipo": "grass",
+    "peso": 1200,
+    "altura": 20,
+    "numeroDex": 103,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"
+  },
+  {
+    "nome": "cubone",
+    "tipo": "ground",
+    "peso": 65,
+    "altura": 4,
+    "numeroDex": 104,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
+  },
+  {
+    "nome": "marowak",
+    "tipo": "ground",
+    "peso": 450,
+    "altura": 10,
+    "numeroDex": 105,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
+  },
+  {
+    "nome": "hitmonlee",
+    "tipo": "fighting",
+    "peso": 498,
+    "altura": 15,
+    "numeroDex": 106,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
+  },
+  {
+    "nome": "hitmonchan",
+    "tipo": "fighting",
+    "peso": 502,
+    "altura": 14,
+    "numeroDex": 107,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+  },
+  {
+    "nome": "lickitung",
+    "tipo": "normal",
+    "peso": 655,
+    "altura": 12,
+    "numeroDex": 108,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
+  },
+  {
+    "nome": "koffing",
+    "tipo": "poison",
+    "peso": 10,
+    "altura": 6,
+    "numeroDex": 109,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+  },
+  {
+    "nome": "weezing",
+    "tipo": "poison",
+    "peso": 95,
+    "altura": 12,
+    "numeroDex": 110,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+  },
+  {
+    "nome": "rhyhorn",
+    "tipo": "ground",
+    "peso": 1150,
+    "altura": 10,
+    "numeroDex": 111,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
+  },
+  {
+    "nome": "rhydon",
+    "tipo": "ground",
+    "peso": 1200,
+    "altura": 19,
+    "numeroDex": 112,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+  },
+  {
+    "nome": "chansey",
+    "tipo": "normal",
+    "peso": 346,
+    "altura": 11,
+    "numeroDex": 113,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+  },
+  {
+    "nome": "tangela",
+    "tipo": "grass",
+    "peso": 350,
+    "altura": 10,
+    "numeroDex": 114,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+  },
+  {
+    "nome": "kangaskhan",
+    "tipo": "normal",
+    "peso": 800,
+    "altura": 22,
+    "numeroDex": 115,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
+  },
+  {
+    "nome": "horsea",
+    "tipo": "water",
+    "peso": 80,
+    "altura": 4,
+    "numeroDex": 116,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
+  },
+  {
+    "nome": "seadra",
+    "tipo": "water",
+    "peso": 250,
+    "altura": 12,
+    "numeroDex": 117,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
+  },
+  {
+    "nome": "goldeen",
+    "tipo": "water",
+    "peso": 150,
+    "altura": 6,
+    "numeroDex": 118,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
+  },
+  {
+    "nome": "seaking",
+    "tipo": "water",
+    "peso": 390,
+    "altura": 13,
+    "numeroDex": 119,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
+  },
+  {
+    "nome": "staryu",
+    "tipo": "water",
+    "peso": 345,
+    "altura": 8,
+    "numeroDex": 120,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+  },
+  {
+    "nome": "starmie",
+    "tipo": "water",
+    "peso": 800,
+    "altura": 11,
+    "numeroDex": 121,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
+  },
+  {
+    "nome": "mr-mime",
+    "tipo": "psychic",
+    "peso": 545,
+    "altura": 13,
+    "numeroDex": 122,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+  },
+  {
+    "nome": "scyther",
+    "tipo": "bug",
+    "peso": 560,
+    "altura": 15,
+    "numeroDex": 123,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
+  },
+  {
+    "nome": "jynx",
+    "tipo": "ice",
+    "peso": 406,
+    "altura": 14,
+    "numeroDex": 124,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
+  },
+  {
+    "nome": "electabuzz",
+    "tipo": "electric",
+    "peso": 300,
+    "altura": 11,
+    "numeroDex": 125,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+  },
+  {
+    "nome": "magmar",
+    "tipo": "fire",
+    "peso": 445,
+    "altura": 13,
+    "numeroDex": 126,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
+  },
+  {
+    "nome": "pinsir",
+    "tipo": "bug",
+    "peso": 550,
+    "altura": 15,
+    "numeroDex": 127,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
+  },
+  {
+    "nome": "tauros",
+    "tipo": "normal",
+    "peso": 884,
+    "altura": 14,
+    "numeroDex": 128,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
+  },
+  {
+    "nome": "magikarp",
+    "tipo": "water",
+    "peso": 100,
+    "altura": 9,
+    "numeroDex": 129,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
+  },
+  {
+    "nome": "gyarados",
+    "tipo": "water",
+    "peso": 2350,
+    "altura": 65,
+    "numeroDex": 130,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+  },
+  {
+    "nome": "lapras",
+    "tipo": "water",
+    "peso": 2200,
+    "altura": 25,
+    "numeroDex": 131,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+  },
+  {
+    "nome": "ditto",
+    "tipo": "normal",
+    "peso": 40,
+    "altura": 3,
+    "numeroDex": 132,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+  },
+  {
+    "nome": "eevee",
+    "tipo": "normal",
+    "peso": 65,
+    "altura": 3,
+    "numeroDex": 133,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+  },
+  {
+    "nome": "vaporeon",
+    "tipo": "water",
+    "peso": 290,
+    "altura": 10,
+    "numeroDex": 134,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+  },
+  {
+    "nome": "jolteon",
+    "tipo": "electric",
+    "peso": 245,
+    "altura": 8,
+    "numeroDex": 135,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+  },
+  {
+    "nome": "flareon",
+    "tipo": "fire",
+    "peso": 250,
+    "altura": 9,
+    "numeroDex": 136,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
+  },
+  {
+    "nome": "porygon",
+    "tipo": "normal",
+    "peso": 365,
+    "altura": 8,
+    "numeroDex": 137,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"
+  },
+  {
+    "nome": "omanyte",
+    "tipo": "rock",
+    "peso": 75,
+    "altura": 4,
+    "numeroDex": 138,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png"
+  },
+  {
+    "nome": "omastar",
+    "tipo": "rock",
+    "peso": 350,
+    "altura": 10,
+    "numeroDex": 139,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png"
+  },
+  {
+    "nome": "kabuto",
+    "tipo": "rock",
+    "peso": 115,
+    "altura": 5,
+    "numeroDex": 140,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
+  },
+  {
+    "nome": "kabutops",
+    "tipo": "rock",
+    "peso": 405,
+    "altura": 13,
+    "numeroDex": 141,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png"
+  },
+  {
+    "nome": "aerodactyl",
+    "tipo": "rock",
+    "peso": 590,
+    "altura": 18,
+    "numeroDex": 142,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png"
+  },
+  {
+    "nome": "snorlax",
+    "tipo": "normal",
+    "peso": 4600,
+    "altura": 21,
+    "numeroDex": 143,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+  },
+  {
+    "nome": "articuno",
+    "tipo": "ice",
+    "peso": 554,
+    "altura": 17,
+    "numeroDex": 144,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+  },
+  {
+    "nome": "zapdos",
+    "tipo": "electric",
+    "peso": 526,
+    "altura": 16,
+    "numeroDex": 145,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
+  },
+  {
+    "nome": "moltres",
+    "tipo": "fire",
+    "peso": 600,
+    "altura": 20,
+    "numeroDex": 146,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+  },
+  {
+    "nome": "dratini",
+    "tipo": "dragon",
+    "peso": 33,
+    "altura": 18,
+    "numeroDex": 147,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
+  },
+  {
+    "nome": "dragonair",
+    "tipo": "dragon",
+    "peso": 165,
+    "altura": 40,
+    "numeroDex": 148,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
+  },
+  {
+    "nome": "dragonite",
+    "tipo": "dragon",
+    "peso": 2100,
+    "altura": 22,
+    "numeroDex": 149,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+  },
+  {
+    "nome": "mewtwo",
+    "tipo": "psychic",
+    "peso": 1220,
+    "altura": 20,
+    "numeroDex": 150,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+  },
+  {
+    "nome": "mew",
+    "tipo": "psychic",
+    "peso": 40,
+    "altura": 4,
+    "numeroDex": 151,
+    "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+  }
+]
